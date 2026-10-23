@@ -74,6 +74,7 @@ npm run dev
 ```
 
 Visit `http://localhost:5173` to test the application locally.
+web link : https://mubarakaist-sudo.github.io/chatsumai/
 
 ### Production Build
 ```bash
