@@ -29,5 +29,3 @@ credentials.json
 *.sln
 *.sw?
 
-# Temporary files
-stitch_extracted/
